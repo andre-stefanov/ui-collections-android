@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdVANced Learning Containers</string>
+    <string name="title_list">List</string>
+    <string name="title_grid">Grid</string>
+</resources>
